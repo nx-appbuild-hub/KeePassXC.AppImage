@@ -1,4 +1,4 @@
-SOURCE="https://github.com/keepassxreboot/keepassxc/releases/download/2.6.3/KeePassXC-2.6.3-x86_64.AppImage"
+SOURCE="https://github.com/keepassxreboot/keepassxc/releases/download/2.6.6/KeePassXC-2.6.6-x86_64.AppImage"
 OUTPUT="KeePassXC.AppImage"
 
 
